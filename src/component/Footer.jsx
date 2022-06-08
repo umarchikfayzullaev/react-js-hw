@@ -24,7 +24,7 @@ export default function Footer(){
                             <p>Abou</p>
                         </li>
                         <li className="f_li">
-                            <p>Contac</p>
+                            <p>Contact</p>
                         </li>
                     </ul>
                 </div>
