@@ -15,16 +15,16 @@ export default function Footer(){
                     <h1>Escape.</h1>
                     <ul className="f_ul">
                         <li className="f_li">
-                            <p>Home</p>
+                            <p>Hom</p>
                         </li>
                         <li className="f_li">
-                            <p>Categories</p>
+                            <p>Categorie</p>
                         </li>
                         <li className="f_li">
-                            <p>About</p>
+                            <p>Abou</p>
                         </li>
                         <li className="f_li">
-                            <p>Contact</p>
+                            <p>Contac</p>
                         </li>
                     </ul>
                 </div>
