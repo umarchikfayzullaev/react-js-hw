@@ -18,10 +18,10 @@ export default function Footer(){
                             <p>Hom</p>
                         </li>
                         <li className="f_li">
-                            <p>Categorie</p>
+                            <p>Categories</p>
                         </li>
                         <li className="f_li">
-                            <p>Abou</p>
+                            <p>About</p>
                         </li>
                         <li className="f_li">
                             <p>Contact</p>
