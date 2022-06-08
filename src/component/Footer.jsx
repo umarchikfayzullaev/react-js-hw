@@ -15,7 +15,7 @@ export default function Footer(){
                     <h1>Escape.</h1>
                     <ul className="f_ul">
                         <li className="f_li">
-                            <p>Hom</p>
+                            <p>Home</p>
                         </li>
                         <li className="f_li">
                             <p>Categories</p>
